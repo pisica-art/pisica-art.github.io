@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Colors of Nature",
+    "media": ["./media/colors_of_nature.jpg"],
+    "price": 65,
+    "size": "20",
+    "category": "Mixed media on canvas"
+  },
+  {
+    "name": "Golden Meadow",
+    "media": ["./media/golden_meadow.jpg"],
+    "price": 80,
+    "size": "70x50",
+    "category": "Acrylic on canvas"
+  },
+  {
+    "name": "Silver",
+    "media": ["./media/silver.jpg", "./media/silver_video.mov"],
+    "price": 80,
+    "size": "50x50",
+    "category": "Mixed media on canvas"
+  },
+  {
+    "name": "Magic of Nature",
+    "media": ["./media/magic_of_nature.jpg"],
+    "price": 95,
+    "size": "50x50",
+    "category": "Mixed media on canvas"
+  },
+  {
+    "name": "Interpendence",
+    "media": ["./media/interdependence.jpg"],
+    "price": 75,
+    "size": "30",
+    "category": "Mixed media on canvas"
+  },
+  {
+    "name": "Gray",
+    "media": ["./media/gray.png"],
+    "price": 65,
+    "size": "20",
+    "category": "Mixed media on canvas"
+  },
+  {
+    "name": "Flowers in the Night",
+    "media": [
+      "./media/flowers_of_the_night_1.png",
+      "./media/flowers_of_the_night_2.png",
+      "./media/flowers_of_the_night_3.png"
+    ],
+    "price": 80,
+    "size": "35x50",
+    "category": "Mixed media on canvas"
+  }
+]
